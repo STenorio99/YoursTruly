@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorSapphire">#005B82</color>
+    <color name="colorDarkSapphire">#005B62</color>
+    <color name="colorOlive">#5B5617</color>
+    <color name="colorAlmond">#B06F00</color>
+    <color name="colorOcean">#00B9E4</color>
+    <color name="colorKiwi">#A8B400</color>
+    <color name="colorMarigold">#FFB400</color>
+    <color name="colorYTGrey">#D9D9D9</color>
+</resources>
